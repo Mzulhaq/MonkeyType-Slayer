@@ -1,0 +1,4 @@
+splinter
+webdriver-manager
+selenium
+time
